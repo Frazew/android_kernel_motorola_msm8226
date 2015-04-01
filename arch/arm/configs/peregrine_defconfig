@@ -7,6 +7,7 @@
 # Added Features
 #
 CONFIG_FRANDOM=y
+CONFIG_INTELLI_PLUG=y
 
 #
 # General Strings
